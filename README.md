@@ -3,4 +3,4 @@
 
  Estou aprendendo HMTL5 e CSS3 e também gerenciando meus repositório
 
-<a href= "https://vitornagayawong.github.io/html-css/exercicios/ex002/index.html/ex001/index.html">Executar o exercício 001</a>
+<a href= "https://vitornagayawong.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
