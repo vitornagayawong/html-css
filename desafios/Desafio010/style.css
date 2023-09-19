@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#principal{
+    text-align: center;
+}
+
+#div1 > h2{
+    text-align: center;
+    
+}
+
+#div1{
+    background-color: rgb(42, 168, 42);
+}
+
+#div1 > nav{
+
+}
+
+#div2{
+    background-color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
